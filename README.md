@@ -1,3 +1,3 @@
-# Javascript Misc. Stuff
+# Coding Practice
 
-This is just a repo where I'm tossing my work/studies.
+Studies, crap code, lots of learning to always do.
