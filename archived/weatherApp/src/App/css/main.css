@@ -1,8 +1,0 @@
-body {
-  --app-yellow: #FFC800;
-  --app-blue: #0E354B;
-  text-align: center;
-  color: var(--app-yellow);
-  background-color: var(--app-blue);
-}
-
